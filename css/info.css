@@ -5,10 +5,9 @@
 .info  {
 }
 @media screen and (min-width: 1024px)  {
-    
-.info .item  {
-   width: 30%;
-}
+    .info .text {
+       margin-left: 5rem;
+    }
 }
 
 
