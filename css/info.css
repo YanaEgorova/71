@@ -1,0 +1,14 @@
+.info__wrapper   {
+ 
+}
+
+.info  {
+}
+@media screen and (min-width: 1024px)  {
+    
+.info .item  {
+   width: 30%;
+}
+}
+
+

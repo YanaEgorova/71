@@ -1,0 +1,9 @@
+.hero__wrapper {
+}
+.hero {
+    padding: 10rem 0 5rem;
+    position: relative;
+}
+@media screen and (min-width: 1024px)  {
+  
+}
